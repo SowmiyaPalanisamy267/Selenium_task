@@ -1,8 +1,0 @@
-__pycache__/ 
-*.pyc 
-*.pyo 
-.pytest_cache/ 
-playwright-report/ 
-test-results/ 
-*.html 
-*.png 
